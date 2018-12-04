@@ -1,6 +1,6 @@
 # codeIgniter-website
 
-Website ini adalah website untuk penjualan online, atau istilah kerennya e-commerce
+Website ini adalah website untuk penjualan online, atau istilah kerennya e-commerce.
 Website ini dibuat menggunakan CodeIgniter dan juga Bootstrap.
 
 Di website ini, tersedia tempat untuk penjual dan pembeli.
